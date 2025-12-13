@@ -26,32 +26,6 @@ This repository is a comprehensive documentation of my **Data Structures and Alg
 
 ---
 
-## 📂 Repository Structure
-
-```
-DSA-Journey/
-├── arrays/
-│   ├── arrays-1d/
-│   └── arrays-2d/
-├── strings/
-├── linked-lists/
-├── stacks-queues/
-├── trees/
-│   ├── binary-search-trees/
-│   └── n-ary-trees/
-├── graphs/
-├── dynamic-programming/
-├── greedy/
-├── sorting/
-├── searching/
-├── recursion-backtracking/
-├── bit-manipulation/
-├── hashing/
-└── templates/
-    └── code-templates.md
-```
-
----
 
 ## 🖥️ Tech Stack
 
