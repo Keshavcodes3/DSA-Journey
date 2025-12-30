@@ -52,18 +52,6 @@ The focus is on readable solutions, daily progress, and building long-term muscl
 - Maintain an honest streak and log every day  
 
 </td>
-    <td>
-
-const dsaJourney = {
-cohort: "Sheriyans 2.0",
-language: "JavaScript",
-mode: "Daily Practice",
-goal: "DSA + Problem Solving Mastery",
-};
-
-
-
-</td>
   </tr>
 </table>
 
@@ -79,14 +67,7 @@ goal: "DSA + Problem Solving Mastery",
 - Focus: clean code, comments, and intuitive variable naming  
 - Mindset: learn patterns, refactor, and revisit hard problems
 
-while (true) {
-practiceDSA();
-writeNotes();
-pushToGitHub();
-// repeat until better than yesterday
-}
----
-
+w
 ---
 
 ## 🧾 Progress & Commitment
